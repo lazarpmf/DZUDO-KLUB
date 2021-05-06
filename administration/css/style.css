@@ -1,0 +1,50 @@
+/*LogIn, SignUp*/
+.main {
+	margin: 0 auto;
+    display: block;
+    float: none;
+    margin-top: 8%;
+}
+
+.my-label {
+	font-size: 20px;
+    font-weight: bold;
+    color: #EA6045;
+}
+
+#username, 
+#password,
+label {
+	margin-top: 10px;
+}
+
+#confirm,
+
+#editService {
+	background-color: #325c6a;
+	margin-top: 20px;
+	color: white;
+}
+
+#signUp {
+	margin-top: 10px;
+}
+
+/*Index Page for Administration*/
+.center {
+	margin: 0 auto;
+    display: block;
+    float: none;
+}
+
+.box {
+	text-align: center;
+    border: 3px solid #ea6045;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.type {
+	color: #ea6045;
+    font-size: 20px;
+}
